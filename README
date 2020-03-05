@@ -1,0 +1,3 @@
+* diffusion.py --> permet de tracer Dpbc en fonction de L-1. 
+	Calcul D0 et la viscosite.
+	J. Phys. Condens. Matter, 24 (2012), 284117.
